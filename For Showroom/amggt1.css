@@ -1,0 +1,86 @@
+/** @format */
+body {
+  background: black;
+}
+header {
+  background: white;
+  color: black;
+  width: 100%;
+  font-size: 36px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  text-align: center;
+  position: fixed;
+  top: 0%;
+}
+.button1 {
+  position: fixed;
+  top: 13px;
+  left: 80px;
+}
+.button1 a {
+  font-size: 19px;
+  text-decoration: none;
+  color: black;
+  font-family: "Exo", sans-serif;
+}
+.button1 a:hover {
+  transition: 0.47s;
+  /* text-decoration: underline; */
+  /* border: 2px solid #ffc300; */
+  border-radius: 13px;
+  background: black;
+  color: #ffc300;
+  padding-left: 13px;
+  padding-right: 14px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 6%;
+  width: 50%;
+}
+.container1 {
+  width: 87%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #3e3e3e5e;
+  border: 1px solid #ffc300;
+  padding-left: 2%;
+  padding-right: 2%;
+  /* padding-top: 10px; */
+  padding-bottom: 10px;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+.class2 {
+  font-family: "Exo", sans-serif;
+  color: white;
+}
+#id2 {
+  font-size: 26px;
+  text-align: justify;
+}
+#id1 {
+  font-size: 26px;
+  /* position: absolute; */
+  padding-top: 7px;
+  text-decoration: underline;
+}
+.class1 {
+  font-family: "Exo", sans-serif;
+  margin-top: 30px;
+  color: white;
+}
+.class1 ul {
+  font-size: 23px;
+}
+.class3 {
+  font-size: 24px;
+  font-family: "Exo", sans-serif;
+}
